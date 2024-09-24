@@ -1,0 +1,82 @@
+[
+  {
+    "company": "Tata Consultancy Services (TCS)",
+    "Role": "Data Scientist",
+    "Location": "Pune, Maharashtra",
+    "Compensation": "₹8 Lacs per annum",
+    "image": "./1.png",
+    "website": "https://www.tcs.com"
+  },
+  {
+    "company": "Infosys",
+    "Role": "Software Engineer",
+    "Location": "Hyderabad, Telangana",
+    "Compensation": "₹6 Lacs per annum",
+    "image": "./2.png",
+    "website": "https://www.infosys.com"
+  },
+  {
+    "company": "Wipro",
+    "Role": "Digital Transformation Consultant",
+    "Location": "Bangalore, Karnataka",
+    "Compensation": "₹9 Lacs per annum",
+    "image": "./3.png",
+    "website": "https://www.wipro.com"
+  },
+  {
+    "company": "Accenture",
+    "Role": "Cybersecurity Analyst",
+    "Location": "Mumbai, Maharashtra",
+    "Compensation": "₹7 Lacs per annum",
+    "image": "./4.png",
+    "website": "https://www.accenture.com"
+  },
+  {
+    "company": "HCL Technologies",
+    "Role": "Product Manager",
+    "Location": "Noida, Uttar Pradesh",
+    "Compensation": "₹10 Lacs per annum",
+    "image": "./5.png",
+    "website": "https://www.hcltech.com"
+  },
+  {
+    "company": "Microsoft India",
+    "Role": "Cloud Solutions Architect",
+    "Location": "Bengaluru, Karnataka",
+    "Compensation": "₹12 Lacs per annum",
+    "image": "./6.png",
+    "website": "https://www.microsoft.com"
+  },
+  {
+    "company": "Amazon India",
+    "Role": "Business Development Manager",
+    "Location": "Delhi NCR",
+    "Compensation": "₹15 Lacs per annum",
+    "image": "./7.png",
+    "website": "https://www.amazon.in"
+  },
+  {
+    "company": "IBM India",
+    "Role": "AI/ML Developer",
+    "Location": "Chennai, Tamil Nadu",
+    "Compensation": "₹9.5 Lacs per annum",
+    "image": "./8.png",
+    "website": "https://www.ibm.com/in-en"
+  },
+  {
+    "company": "Flipkart",
+    "Role": "Product Manager",
+    "Location": "Mumbai, Maharashtra",
+    "Compensation": "₹11 Lacs per annum",
+    "image": "./9.png",
+    "website": "https://www.flipkart.com"
+  },
+  {
+    "company": "Google India",
+    "Role": "Software Engineer, Machine Learning",
+    "Location": "Hyderabad, Telangana",
+    "Compensation": "₹14 Lacs per annum",
+    "image": "./10.png",
+    "website": "https://www.google.co.in"
+  }
+]

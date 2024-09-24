@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Samantha Thompson",
+     "position": "Software Developer",
+      "company": "Tech Innovators Ltd",
+      "comment": "Silverline made my job search a breeze! Found the perfect role within days. Highly recommended!"
+    },
+    {
+      "name": "Raj Kapoor",
+      "position": "Marketing Specialist",
+      "company": "Digital Dynamics Inc",
+      "comment": "Incredible platform! Silverline's intuitive interface and accurate job matches simplified my search process."
+    },
+    {
+      "name": "Grace Chen",
+      "position": "Data Scientist",
+      "company": "Analytics Hub",
+      "comment": "Silverline's personalized job recommendations are spot-on. Landed my dream job thanks to this platform!"
+    },
+    {
+      "name": "David Foster",
+      "position": "Project Manager",
+      "company": "Innovate Solutions",
+      "comment": "The Silverline job search engine is a game-changer. Efficient, user-friendly, and incredibly effective."
+    },
+    {
+      "name": "Priya Patel",
+      "position": "UX/UI Designer",
+      "company": "Creative Minds Studio",
+      "comment": "Silverline exceeded my expectations! The tailored job alerts kept me ahead in the competitive job market."
+    }
+]
